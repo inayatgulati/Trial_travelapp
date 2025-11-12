@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Trial_travelapp",
+    "slug": "trial_travelapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.trial_travelapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.trial-travelapp"
+    }
+  }
+}
